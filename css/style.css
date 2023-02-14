@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex-grow: 1;
+}
+
+.contenedorProductos {
+    border-radius: 10px;
+    width: 300px;
+    filter: grayscale(70%);
+}
+
+.contenedorProductos img {
+    filter: grayscale(0%);
+    transition: 350ms;
+    transform: scale(1.03);
+}
+
+@media all and (max-width: 767px) {
+    .banner-Principal {
+        height: 250px;
+        object-fit: cover;
+        /* object-position: 20%; */
+    }
+}
