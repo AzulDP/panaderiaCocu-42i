@@ -16,8 +16,4 @@ git clone https://github.com/maxivega0/folagor03.git
 
 ## Autores 
 
-1. [Guillermo Andrada](https://github.com/GuillermoA231)
-2. [Flor Cané](https://github.com/florcanee)
-3. [Maxi Vega](https://github.com/maxivega0)
-4. [Azul De Pol](https://github.com/AzulDP)
-1. 
+1. [Azul De Pol](https://github.com/AzulDP)
